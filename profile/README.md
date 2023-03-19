@@ -8,8 +8,8 @@ We are a small team working on a great minigame server. 100% of the code is self
   </tr>
   <tr>
     <td>Library Plugin</td>
-    <td>60%</td>
-    <td></td>
+    <td>Finished</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td>Lobby Plugin</td>
@@ -28,8 +28,8 @@ We are a small team working on a great minigame server. 100% of the code is self
   </tr>
   <tr>
     <td>Friends</td>
-    <td>0%</td>
-    <td></td>
+    <td>Finished</td>
+    <td>✔️</td>
   </tr>
   <tr>
     <td>Partys</td>
@@ -38,7 +38,7 @@ We are a small team working on a great minigame server. 100% of the code is self
   </tr>
   <tr>
     <td>Citybuild</td>
-    <td>90%</td>
+    <td>0%</td>
     <td></td>
   </tr>
   <tr>
@@ -48,7 +48,12 @@ We are a small team working on a great minigame server. 100% of the code is self
   </tr>
   <tr>
     <td>Adventure</td>
-    <td>0%</td>
+    <td>20%</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>SMP</td>
+    <td>90%</td>
     <td></td>
   </tr>
 </table>
